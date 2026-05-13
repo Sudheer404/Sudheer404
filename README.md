@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,87CEFA,FFFACD,FFFFFF&height=280&section=header&text=Sudheer%20Bandaru&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Senior%20Software%20Engineer%20%7C%20AI%20%26%20LLM%20Architect%20%7C%20Python%20Expert&descAlignY=58&descSize=18&descColor=FFFFFF&stroke=ffffff&strokeWidth=1"/>
@@ -28,11 +27,12 @@
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding GIF"/>
 
-```python
+# python
+
 class SudheerBandaru:
     def __init__(self):
         self.role        = "Senior Software Engineer & AI Architect"
-        self.experience  = "3.8+ Years"
+        self.experience  = "4+ Years"
         self.location    = "📍 Bangalore, India"
         self.languages   = ["English", "Kannada", "Telugu"]
 
