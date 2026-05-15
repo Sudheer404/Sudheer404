@@ -101,16 +101,14 @@
 <br/>
 
 ```yaml
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  PROFILE: SYSTEM_INITIALIZED
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Role         : Senior Software Engineer · AI Developer
 Experience   : 4+ Years
 Location     : Bangalore, India
 Focus_Area   : Generative AI · LLM Applications · Automation
 Specialized  : RAG Pipelines · AI Agents · Intelligent Systems
 Work_Mode    : Freelance · Personal AI Products · Enterprise Dev
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 **🧩 Core Domains & Expertise**
