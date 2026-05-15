@@ -195,10 +195,15 @@ print(me.current_focus())
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
 
 <p align="center">
+<<<<<<< HEAD
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=250&color=00F7FF&center=true&vCenter=true&width=900&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%A4%9D+Open+to+GenAI%2C+MLOps+%26+AI+Consulting;%F0%9F%9A%80+Let%27s+Build+Intelligent+Systems+Together;%F0%9F%99%8F+Thanks+for+Visiting+%E2%80%94+Let%27s+Grow+Together!"
       alt="Typing SVG"
     />
   </p>
+=======
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=250&color=00F7FF&center=true&vCenter=true&width=900&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+GenAI%2C+MLOps+%26+AI+Consulting;🚀+Let%27s+Build+Intelligent+Systems+Together;🙏+Thanks+for+Visiting+—+Let%27s+Grow+Together!" />
+</p>
+>>>>>>> 749e6d328b31ae5f87c2607a71417dd74c8c28d1
 
 </div>
