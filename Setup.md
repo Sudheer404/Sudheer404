@@ -68,3 +68,46 @@ Light Blue: 87CEFA
 Light Yellow: FFFACD
 
 White: FFFFFF
+```
+ 
+## Profile Maintenance Guide
+
+```
+🛠️ SETUP.md — Profile Maintenance Guide
+This guide makes it simple to manage and update your GitHub profile README.
+```
+
+## 🧩 Part 1: Profile Structure
+```
+The profile is divided into four main visual zones:
+
+The Header: Custom greeting banner with real-time typing text animations.
+
+The Links: Clean badges linking directly to your LinkedIn, GitHub, Email, Portfolio, and Instagram.
+
+The Tech Matrix: A tabular showcase separating your core AI/ML tools from GenAI/Vector DB stacks.
+
+The Code Narrative: An interactive, expandable experience section followed by an OOP Python class summarizing your skills.
+```
+## ⚙️ Part 2: How to Update Content
+```
+🔄 1. Changing the Animated Text
+The moving text lines are generated via URLs. To update your focus areas, find the typing SVG links and update the lines= parameter:
+
+Separate multiple lines using a semicolon (;).
+
+Replace spaces with %20 or + to prevent URL breaks.
+
+🛠️ 2. Adding New Tech Badges
+To add a new tool or language to your tech stack table, insert a new badge image tag using this format:
+
+HTML
+<img src="https://img.shields.io/badge/TechName-0D1117?style=for-the-badge&logo=techlogo&logoColor=HEX_COLOR"/>
+
+🐍 3. Updating the Python Class
+When your focus shifts or you gain more experience, update the raw strings inside the custom SudheerBandaru Python class at the bottom of the README file.
+
+🚨 Part 3: Layout Guardrails
+Keep Tags Closed: Ensure all custom HTML elements like <table>, <tr>, <td>, and <details> are properly closed so the markdown layout doesn't break.
+``` 
+Mobile Responsiveness: Keep width properties for the header and separation lines at width="100%" so they auto-scale perfectly on mobile screens.
