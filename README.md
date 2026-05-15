@@ -2,10 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Sudheer%20Bandaru&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20AI%20LLM%20Engineer%20|%20Python%20Developer%20|%20Agentic%20AI&descAlignY=55&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Agents+🤖;Designing+LLM+Applications+🚀;Exploring+Generative+AI+🔥;Open+to+AI+LLM+Opportunities+💼;Creating+Automation+with+Agents+⚡;Python+Developer+|+AI+Enthusiast" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=46&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Agents+%F0%9F%A4%96;Designing+LLM+Applications+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%94%A5;Open+to+AI LLM+Opportunities+%F0%9F%92%BC;Creating+Automation+with+Agents+%E2%9A%A1;Python+Developer+%7C+AI+Enthusiast"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=FFB347&center=true&vCenter=true&random=false&width=850&height=55&lines=🤖+AI+Engineering+|+RAG+|+Multi-Agent+Systems;⚙️+Python+|+C%23+|+Desktop+Automation;🚗+ADAS+|+Sensor+Fusion+|+Data+Analysis;🚀+Scalable+System+Architecture;🔍+Currently+Building:+sudheerbuilds.co.in"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=FFB347&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+AI+Engineering+%7C+RAG+%7C+Multi-Agent+Systems;⚙️+Python+%7C+C%23+%7C+GUI+Automation+Desktop+Apps;🚗+ADAS+Domain+%7C+Sensor+Fusion+%7C+Data+Analysis;🚀+Scalable+System+Architecture;🔍+Currently+Building%3A+sudheerbuilds.co.in" alt="Typing SVG" />
+</h1>
 ---
 
 <p align="center">
