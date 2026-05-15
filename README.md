@@ -5,12 +5,12 @@
 <h1 align="center">
 
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=58&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=1000&height=50&lines=Building+AI+Agents+%F0%9F%A4%96;Designing+LLM+Applications+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%94%A5;Open+to+AI+LLM+Opportunities+%F0%9F%92%BC;Creating+Automation+with+Agents+%E2%9A%A1;Python+Developer+%7C+AI+Enthusiast" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=48&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=1000&height=50&lines=Building+AI+Agents+%F0%9F%A4%96;Designing+LLM+Applications+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%94%A5;Open+to+AI+LLM+Opportunities+%F0%9F%92%BC;Creating+Automation+with+Agents+%E2%9A%A1;Python+Developer+%7C+AI+Enthusiast" 
     alt="Typing SVG"
   />
 
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=FFB347&center=true&vCenter=true&random=false&width=850&height=55&lines=%F0%9F%A4%96+AI+Engineering+%7C+RAG+%7C+Multi-Agent+Systems;%E2%9A%99%EF%B8%8F+Python+%7C+C%23+%7C+GUI+Automation+Desktop+Apps;%F0%9F%9A%97+ADAS+Domain+%7C+Sensor+Fusion+%7C+Data+Analysis;%F0%9F%9A%80+Scalable+System+Architecture;%F0%9F%94%8D+Currently+Building%3A+sudheerbuilds.co.in" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=FFB347&center=true&vCenter=true&random=false&width=850&height=30&lines=%F0%9F%A4%96+AI+Engineering+%7C+RAG+%7C+Multi-Agent+Systems;%E2%9A%99%EF%B8%8F+Python+%7C+C%23+%7C+GUI+Automation+Desktop+Apps;%F0%9F%9A%97+ADAS+Domain+%7C+Sensor+Fusion+%7C+Data+Analysis;%F0%9F%9A%80+Scalable+System+Architecture;%F0%9F%94%8D+Currently+Building%3A+sudheerbuilds.co.in" 
     alt="Typing SVG"
   />
 
