@@ -1,49 +1,103 @@
-<div align="center">
+## Hi 👋, Welcome! it's great to have you here . . . . . . . . . . . . .🙏
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB347,87CEFA,FFFACD,FFFFFF&height=280&section=header&text=Sudheer%20Bandaru&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Senior%20Software%20Engineer%20%7C%20AI%20%26%20LLM%20Architect%20%7C%20Python%20Expert&descAlignY=58&descSize=18&descColor=FFFFFF&stroke=ffffff&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Sudheer%20Bandaru&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior Software Engineer %20%7C%20AI LLM %20Engineer%20%7C%20Python %20Developer%20%7C%20Agentic%20AI&descAlignY=55&descSize=20 "/>
 
-<a href="https://github.com/Sudheer404">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=FFB347&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+AI+Engineering+%7C+RAG+%7C+Multi-Agent+Systems;⚙️+Python+%7C+C%23+%7C+GUI+Automation+Desktop+Apps;🚗+ADAS+Domain+%7C+Sensor+Fusion+%7C+Data+Analysis;🚀+Scalable+System+Architecture;🔍+Currently+Building%3A+sudheerbuilds.co.in" alt="Typing SVG" />
-</a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=46&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Agents+%F0%9F%A4%96;Designing+LLM+Applications+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%94%A5;Open+to+AI LLM+Opportunities+%F0%9F%92%BC;Creating+Automation+with+Agents+%E2%9A%A1;Python+Developer+%7C+AI+Enthusiast"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=FFB347&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+AI+Engineering+%7C+RAG+%7C+Multi-Agent+Systems;⚙️+Python+%7C+C%23+%7C+GUI+Automation+Desktop+Apps;🚗+ADAS+Domain+%7C+Sensor+Fusion+%7C+Data+Analysis;🚀+Scalable+System+Architecture;🔍+Currently+Building%3A+sudheerbuilds.co.in" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  Don't just build to solve; Build to scale and inspire👨‍💻
+</p>
+
+<div>
 <a href="https://www.linkedin.com/in/sudheer-bandaru-1074031bb/">
   <img src="https://img.shields.io/badge/LinkedIn-Sudheer%20Bandaru-87CEFA?style=for-the-badge&logo=linkedin&logoColor=111111&labelColor=FFFFFF"/>
 </a>
 <a href="https://github.com/Sudheer404">
   <img src="https://img.shields.io/badge/GitHub-Sudheer404-FFB347?style=for-the-badge&logo=github&logoColor=111111&labelColor=FFFFFF"/>
 </a>
-<a href="mailto:sudheerbandaru3@gmail.com">
+<a href="mailto:sud.ceomode@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-FFFACD?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=FFFFFF"/>
 </a>
+<a href="https://sudheerbuilds.co.in">
+  <img src="https://img.shields.io/badge/Sud.Builds-Visit%20Website-98FB98?style=for-the-badge&logo=google-chrome&logoColor=111111&labelColor=FFFFFF"/>
+</a>
+<a href="https://www.instagram.com/skillup.builder?igsh=dXFvZjBtajR3cnAy">
+  <img src="https://img.shields.io/badge/Instagram-@skillup.builder-FF69B4?style=for-the-badge&logo=instagram&logoColor=111111&labelColor=FFFFFF"/>
+</a>
 <img src="https://komarev.com/ghpvc/?username=Sudheer404&color=87CEFA&style=for-the-badge&label=PROFILE+VIEWS&labelColor=111111"/>
-
 </div>
 
 <br/>
 
-## 👨‍💻 &nbsp;About Me
+## 👨‍💻 About Me - 🐍 Skills Journey Behind The Script👇  
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding GIF"/>
-
-# python
-
+```python
 class SudheerBandaru:
     def __init__(self):
-        self.role        = "Senior Software Engineer & AI Architect"
+        self.name        = "Sudheer Bandaru"
+        self.role        = "Software Engineer | AI LLM Engineer |"
         self.experience  = "4+ Years"
-        self.location    = "📍 Bangalore, India"
-        self.languages   = ["English", "Kannada", "Telugu"]
+        self.current location    = "📍 Bangalore, India"
 
     @property
     def expertise(self):
         return {
-            "Software_Dev" : ["Python", "C#", "C++", "GUI Development", "Automation"],
-            "AI_&_GenAI"   : ["LLMs", "RAG Pipelines", "LangChain", "HuggingFace"],
-            "Automotive"   : ["ADAS Domain", "Sensor Fusion", "MATLAB", "FOT Analysis"],
-            "Cloud_&_Ops"  : ["AWS (EC2, S3, Lambda)", "Docker", "CI/CD", "Git"]
+            "Software_Development": [
+                "Python",
+                "C#",
+                "C++",
+                "Automation",
+                "GUI Development"
+            ],
+
+            "AI_&_Generative_AI": [
+                "LLMs",
+                "RAG Pipelines",
+                "LangChain",
+                "HuggingFace",
+                "AI Agents",
+                "Prompt Engineering"
+            ],
+
+            "Automotive_ADAS": [
+                "ADAS", "Automation Tools", "Sensor Fusion",
+                "FOT Analysis - Development Chain Tools", 
+                "Perception Model Systems", "Design GUI Applications"
+            ],
+
+            "Cloud_&_DevOps": [
+                "AWS",
+                "Docker",
+                "CI/CD",
+                "Git",
+                "Linux"
+            ]
         }
 
-    def current_status(self):
-        return "Building autonomous agents and exploring open opportunities in AI/Software Engineering."
+    def current_focus(self):
+        return [
+            "Building AI Agents",
+            "Exploring Autonomous Systems",
+            "Creating GenAI Applications",
+            "Open to AI & Software Engineering Opportunities"
+        ]
+
+    def life_philosophy(self):
+        return "Build scalable systems that create real-world impact 🚀"
+
+    def collaboration(self):
+        return (
+            "🤝 Thanks for visiting my profile!\n "
+            "If you're building something exciting in AI, GenAI, "
+            "Automation, or Software Engineering — let's collaborate.\n"
+            "Always open to innovative projects, freelance work, "
+            "and career opportunities to make bread & butter with code ☕🚀"
+        )
+
+
+me = SudheerBandaru()
+print(me.current_focus())
